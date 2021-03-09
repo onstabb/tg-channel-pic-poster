@@ -1,0 +1,7 @@
+Telethon>=1.19.0
+telethon-session-sqlalchemy==0.2.16
+psycopg2==2.8.6
+asyncpg==0.20.1
+opencv-python-headless==4.5.1.48
+cryptg==0.2.post0
+dnspython==2.1.0
